@@ -1,5 +1,5 @@
 <template>
-    <div class="dashboard-map" :style="customWindow">
+    <div id="app" data-app class="dashboard-map" :style="customWindow">
       <div id="map" style="height:100%;">
         <v-select
           v-model="year"
