@@ -826,7 +826,7 @@ export default {
 
     window.addEventListener('resize', ()=>{
       this.customWindow.width = (window.innerWidth) + 'px';
-      this.customWindow.height = (window.innerHeight - 54) + 'px';
+      this.customWindow.height = (window.innerHeight) + 'px';
       this.map.setSize(this.customWindow);
     })
 
