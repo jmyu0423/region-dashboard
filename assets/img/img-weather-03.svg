@@ -1,0 +1,41 @@
+<svg width="32" height="26" viewBox="0 0 32 26" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter x="-100%" y="-97.4%" width="300%" height="294.8%" filterUnits="objectBoundingBox" id="bb3om7zcra">
+            <feGaussianBlur stdDeviation="2.008" in="SourceGraphic"/>
+        </filter>
+        <filter x="-150%" y="-146.1%" width="400%" height="392.2%" filterUnits="objectBoundingBox" id="p2lt6zredb">
+            <feGaussianBlur stdDeviation="2.008" in="SourceGraphic"/>
+        </filter>
+        <filter x="-150%" y="-146.1%" width="400%" height="392.2%" filterUnits="objectBoundingBox" id="mxgynymgcc">
+            <feGaussianBlur stdDeviation="2.008" in="SourceGraphic"/>
+        </filter>
+        <filter x="-100%" y="-90.5%" width="300%" height="281%" filterUnits="objectBoundingBox" id="vvwmrfsl6e">
+            <feGaussianBlur stdDeviation="1.483" in="SourceGraphic"/>
+        </filter>
+        <filter x="-150%" y="-135.8%" width="400%" height="371.5%" filterUnits="objectBoundingBox" id="x74zg1crsf">
+            <feGaussianBlur stdDeviation="1.483" in="SourceGraphic"/>
+        </filter>
+        <filter x="-150%" y="-135.8%" width="400%" height="371.5%" filterUnits="objectBoundingBox" id="jiucvat5zg">
+            <feGaussianBlur stdDeviation="1.483" in="SourceGraphic"/>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="ffput11p0d">
+            <stop stop-color="#EEE" offset="0%"/>
+            <stop stop-color="#C6CAD3" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="matrix(-1 0 0 1 26.883 5)">
+            <path d="M5.387 3.098C6.654 1.033 8.623 0 11.294 0c2.67 0 4.723.971 6.158 2.914a4.921 4.921 0 0 0 2.124 1.472c1.25.446 3.307 1.55 3.307 4.296 0 2.745-1.03 4.251-4.231 5.127-1.56.427-4.409.466-6.926.465-3.223-.001-6.266-.107-8.118-.759C.621 12.465-.3 10.474.081 8.175.335 6.645 1.42 5.543 3.335 4.87l.746-.34c.348-.158.644-.413.852-.734l.454-.698z" fill="#B3B3B3"/>
+            <ellipse fill="#FFF" opacity=".438" filter="url(#bb3om7zcra)" cx="10.832" cy="4.567" rx="3.013" ry="3.093"/>
+            <ellipse fill="#FFF" opacity=".438" filter="url(#p2lt6zredb)" cx="17.862" cy="6.629" rx="2.008" ry="2.062"/>
+            <ellipse fill="#FFF" opacity=".438" filter="url(#mxgynymgcc)" cx="3.803" cy="7.66" rx="2.008" ry="2.062"/>
+        </g>
+        <g transform="translate(11.932 12.66)">
+            <path d="M3.782 2.461C4.672.821 6.055 0 7.93 0c1.875 0 3.317.772 4.324 2.315.41.543.906.933 1.492 1.17.877.354 2.322 1.231 2.322 3.412s-.723 3.378-2.971 4.074c-1.096.339-3.096.37-4.864.37-2.262-.002-4.4-.086-5.7-.603C.436 9.902-.21 8.32.057 6.495c.179-1.217.94-2.092 2.285-2.626l.509-.262c.254-.13.465-.332.607-.58l.324-.566z" fill="url(#ffput11p0d)"/>
+            <ellipse fill="#FFF" filter="url(#vvwmrfsl6e)" cx="7.996" cy="3.628" rx="2.224" ry="2.457"/>
+            <ellipse fill="#FFF" filter="url(#x74zg1crsf)" cx="13.186" cy="5.266" rx="1.483" ry="1.638"/>
+            <ellipse fill="#FFF" filter="url(#jiucvat5zg)" cx="2.807" cy="6.085" rx="1.483" ry="1.638"/>
+        </g>
+        <path fill="none" d="M4 2h24v24H4z"/>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M10 20c5.523 0 10-4.477 10-10S15.523 0 10 0 0 4.477 0 10s4.477 10 10 10z" fill="#C4CAD1"/>
+        <rect stroke="#FFF" stroke-width=".714" fill="#FFF" x="8.409" y="6.427" width="5.519" height="5.519" rx="1.071"/>
+        <g stroke-width=".714">
+            <rect stroke="#FFF" stroke-linejoin="square" fill="#FFF" x="6.071" y="8.764" width="5.519" height="5.519" rx="1.071"/>
+            <rect stroke="#C4CAD1" x="5.357" y="8.05" width="6.948" height="6.948" rx="1.071"/>
+        </g>
+    </g>
+</svg>

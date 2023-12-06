@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="bmbatv2v2b">
+            <stop stop-color="#FFE425" offset="0%"/>
+            <stop stop-color="#FFC510" offset="100%"/>
+        </linearGradient>
+        <path id="3imnf9aosa" d="M0 0h24v24H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="nubq7rr59c" fill="#fff">
+            <use xlink:href="#3imnf9aosa"/>
+        </mask>
+        <use fill-opacity="0" fill="#FFF" xlink:href="#3imnf9aosa"/>
+        <circle stroke-opacity=".191" stroke="#FFC812" stroke-width="2" fill="url(#bmbatv2v2b)" mask="url(#nubq7rr59c)" cx="12" cy="12" r="11"/>
+    </g>
+</svg>

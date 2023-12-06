@@ -1,0 +1,32 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-106.3%" y="-89.5%" width="312.6%" height="279%" filterUnits="objectBoundingBox" id="tu426mxied">
+            <feGaussianBlur stdDeviation="1.865" in="SourceGraphic"/>
+        </filter>
+        <filter x="-147.6%" y="-111.9%" width="395.3%" height="323.8%" filterUnits="objectBoundingBox" id="u6wb93oaxe">
+            <feGaussianBlur stdDeviation="1.865" in="SourceGraphic"/>
+        </filter>
+        <filter x="-196.9%" y="-149.2%" width="493.7%" height="398.4%" filterUnits="objectBoundingBox" id="7o887mgx1f">
+            <feGaussianBlur stdDeviation="1.865" in="SourceGraphic"/>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="ivphjnzzrc">
+            <stop stop-color="#EEE" offset="0%"/>
+            <stop stop-color="#C6CAD3" offset="100%"/>
+        </linearGradient>
+        <path id="pezoxplj5a" d="M0 0h24v24H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="t7ubt7bbjb" fill="#fff">
+            <use xlink:href="#pezoxplj5a"/>
+        </mask>
+        <use fill-opacity="0" fill="#FFF" xlink:href="#pezoxplj5a"/>
+        <g mask="url(#t7ubt7bbjb)">
+            <g transform="translate(0 4)">
+                <path d="M5.65 3.256C6.98 1.086 9.044 0 11.845 0c2.8 0 4.954 1.02 6.459 3.063a5.162 5.162 0 0 0 2.227 1.546C21.843 5.078 24 6.239 24 9.123c0 2.885-1.08 4.467-4.438 5.388-1.636.449-4.624.49-7.264.489-3.38-.002-6.572-.113-8.514-.798C.651 13.098-.314 11.006.085 8.592c.267-1.61 1.404-2.769 3.413-3.474l.846-.386c.324-.148.598-.385.791-.683l.515-.793z" fill="url(#ivphjnzzrc)"/>
+                <ellipse fill="#FFF" filter="url(#tu426mxied)" cx="12" cy="5.625" rx="2.632" ry="3.125"/>
+                <ellipse fill="#FFF" filter="url(#u6wb93oaxe)" cx="19.579" cy="7.5" rx="1.895" ry="2.5"/>
+                <ellipse fill="#FFF" filter="url(#7o887mgx1f)" cx="4.421" cy="8.125" rx="1.421" ry="1.875"/>
+            </g>
+        </g>
+    </g>
+</svg>

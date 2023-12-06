@@ -1,0 +1,40 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-98.2%" y="-98.2%" width="296.4%" height="296.4%" filterUnits="objectBoundingBox" id="luq6id3kpe">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"/>
+        </filter>
+        <filter x="-147.3%" y="-147.3%" width="394.5%" height="394.5%" filterUnits="objectBoundingBox" id="bnqzdmuqmf">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"/>
+        </filter>
+        <filter x="-147.3%" y="-147.3%" width="394.5%" height="394.5%" filterUnits="objectBoundingBox" id="tjhhy6df1g">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"/>
+        </filter>
+        <linearGradient x1="23.22%" y1="12.433%" x2="50%" y2="63.632%" id="xhnqf85f4c">
+            <stop stop-color="#FFE425" offset="0%"/>
+            <stop stop-color="#FFC510" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="ti44gmnyyd">
+            <stop stop-color="#F7F7F9" offset="0%"/>
+            <stop stop-color="#EDEFF5" offset="100%"/>
+        </linearGradient>
+        <path id="09lq5sz3wa" d="M0 0h24v24H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="k04py277zb" fill="#fff">
+            <use xlink:href="#09lq5sz3wa"/>
+        </mask>
+        <use fill-opacity="0" fill="#FFF" xlink:href="#09lq5sz3wa"/>
+        <g mask="url(#k04py277zb)">
+            <g transform="translate(0 3)">
+                <path d="M3.836 5.487c.903-1.62 2.305-2.431 4.207-2.431 1.901 0 3.363.762 4.385 2.287a3.52 3.52 0 0 0 1.513 1.155c.89.35 2.355 1.217 2.355 3.372 0 2.154-.733 3.336-3.013 4.024-1.111.335-3.14.366-4.933.365-2.294-.001-4.462-.084-5.78-.596-2.128-.825-2.783-2.387-2.512-4.19.18-1.203.953-2.068 2.317-2.595l.522-.262c.254-.127.466-.325.61-.57l.33-.559z" fill="#D5D7DC"/>
+                <circle stroke-opacity=".191" stroke="#FFC812" fill="url(#xhnqf85f4c)" cx="11.204" cy="5.602" r="6.102"/>
+                <g transform="translate(3.273 5.516)">
+                    <path d="M4.88 2.874C6.026.958 7.81 0 10.23 0c2.418 0 4.278.901 5.578 2.703a4.458 4.458 0 0 0 1.923 1.365c1.133.414 2.996 1.439 2.996 3.985s-.933 3.943-3.833 4.756c-1.413.396-3.993.433-6.273.432-2.919-.002-5.676-.1-7.353-.704C.562 11.56-.272 9.715.074 7.583c.23-1.42 1.212-2.443 2.947-3.065l.628-.293a2 2 0 0 0 .844-.742l.386-.61z" fill="url(#ti44gmnyyd)"/>
+                    <circle fill="#FFF" filter="url(#luq6id3kpe)" cx="10.986" cy="3.65" r="3.056"/>
+                    <circle fill="#FFF" filter="url(#bnqzdmuqmf)" cx="16.079" cy="6.706" r="2.037"/>
+                    <circle fill="#FFF" filter="url(#tjhhy6df1g)" cx="3.857" cy="6.706" r="2.037"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
